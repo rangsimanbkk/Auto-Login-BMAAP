@@ -14,17 +14,31 @@
 ## 📦 การติดตั้ง
 1️⃣ ดาวน์โหลดไฟล์ ที่ลิ้งค์ด้านล่างนี้
 
-https://drive.google.com/file/d/1IYdnz3JEyjwcMX0-GCwbXxufzi9458pN/view?usp=sharing
+https://mega.nz/file/hExgHYqS#HugWPAANJaHwE0ulRGrMJX6lZ2yqbOpRfFw2QKzlq9k
 
-2️⃣ ทำการแตกไฟล์ แล้วดับเบิ้ลคลิก Auto-Login-BMAAP.exe เพื่อทำการติดตั้ง
+หากไม่สามารถดาวน์โหลดได้ ขึ้นแจ้งแบบนี้
 
-![ZIP](https://github.com/rangsimanbkk/Auto-Login-BMAAP/blob/pic/Auto-Login-Zip.png?raw=true)
+![Download](https://github.com/rangsimanbkk/Auto-Login-BMAAP/blob/pic/Download.png?raw=true)
+
+ให้ทำตามขั้นตอนดังนี้
+
+![Download1](https://github.com/rangsimanbkk/Auto-Login-BMAAP/blob/pic/Download1.png?raw=true)
+
+![Download2](https://github.com/rangsimanbkk/Auto-Login-BMAAP/blob/pic/Download2.png?raw=true)
+
+![Download3](https://github.com/rangsimanbkk/Auto-Login-BMAAP/blob/pic/Download3.png?raw=true)
+
+![Download4](https://github.com/rangsimanbkk/Auto-Login-BMAAP/blob/pic/Download4.png?raw=true)
+
+2️⃣ แล้วดับเบิ้ลคลิก Auto-Login-BMAAP.exe เพื่อทำการติดตั้ง
+
+![RAR](https://github.com/rangsimanbkk/Auto-Login-BMAAP/blob/pic/RAR.png?raw=true)
 
 หากมี Pop-up เด้งขึ้นมา กดตามนี้
 
-![ERROR1](https://github.com/rangsimanbkk/Auto-Login-BMAAP/blob/pic/Auto-Login-Zip.png?raw=true)
+![ERROR1](https://github.com/rangsimanbkk/Auto-Login-BMAAP/blob/pic/Error1.png?raw=true)
 
-![ERROR2](https://github.com/rangsimanbkk/Auto-Login-BMAAP/blob/pic/Auto-Login-Zip.png?raw=true)
+![ERROR2](https://github.com/rangsimanbkk/Auto-Login-BMAAP/blob/pic/Error2.png?raw=true)
 
 
 3️⃣ คลิก Install
@@ -39,7 +53,7 @@ https://drive.google.com/file/d/1IYdnz3JEyjwcMX0-GCwbXxufzi9458pN/view?usp=shari
 
 ![Login](https://github.com/rangsimanbkk/Auto-Login-BMAAP/blob/pic/Login.png?raw=true)
 
-6️⃣ หากต้องการแก้ไข Username และ Password ให้เปิด edit-config-encrypt.exe ในโฟลเดอร์ Auto-Login-BMAAP
+6️⃣ หากต้องการแก้ไข Username และ Password ให้เปิด edit-config-encrypt.exe ในโฟลเดอร์ Auto-Login-BMAAP (C:\Auto-Login-BMAAP)
 
 ![Edit](https://github.com/rangsimanbkk/Auto-Login-BMAAP/blob/pic/Edit.png?raw=true)
 
