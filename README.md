@@ -57,7 +57,6 @@ https://mega.nz/file/hExgHYqS#HugWPAANJaHwE0ulRGrMJX6lZ2yqbOpRfFw2QKzlq9k
 
 ![Edit](https://github.com/rangsimanbkk/Auto-Login-BMAAP/blob/pic/Edit.png?raw=true)
 
-
 ## ติดปัญหาสอบถามได้ที่
 Line: @373xybab 
 
