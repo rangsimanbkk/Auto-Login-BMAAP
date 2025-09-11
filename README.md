@@ -16,7 +16,7 @@
 ## 📦 การติดตั้ง
 1️⃣ ดาวน์โหลดไฟล์ ที่ลิ้งค์ด้านล่างนี้
 
-https://mega.nz/file/cFpzBJAS#W9UJDpgNbKMXOHgS9AlUW14SkkSLvCK0UWt_2HXlGro
+https://mega.nz/file/cJ5XUIJA#WFGYLTYfqpSN9WKx_LslpGjPkU6aL4hh0P0Lqdgku4g
 
 หากไม่สามารถดาวน์โหลดได้ ขึ้นแจ้งแบบนี้
 
